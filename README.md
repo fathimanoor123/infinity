@@ -1,39 +1,39 @@
-# [Project Name] 🎯
+# [BUDGET TRAVEL] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [infinity]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [fathima noor tp] - [ilahia college of engineering and technology]
+- Member 2: [afna kabeer] - [ilahia college of engineering and technology]
+- Member 3: [anagha as] - [ilahia college of engineering and technology]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[ Our project is a budget travel app that helps users plan their trips, find cheap accommodations and food, and track their expenses to ensure they stay within their budget.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[ The biggest problem travelers face is spending too much on basic things like food, accommodation, and transportation, all of which can blow their travel budget.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[ We’re helping travelers get the most bang for their buck by providing real-time travel deals, budget-friendly accommodation suggestions, and a budget calculator that ensures users stay within their financial limits.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used - HTML, CSS, JavaScript]
+- [Frameworks used - React, Express.js]
+- [Libraries used- Axios, Bootstrap]
+- [Tools used-vscode,git,github]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [List main components- Raspberry Pi, Sensors, LCD Display]
+- [List specifications- Raspberry Pi Model 4, DHT11 Temperature Sensor]
+- [List tools required- Raspberry Pi OS, GPIO libraries ]
 
 ### Implementation
 For Software:
@@ -91,9 +91,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [fathima noor]: [Specific contributions]
+- [afna kabeer]: [Specific contributions]
+- [anagha as]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
